@@ -1,5 +1,5 @@
 # 東方電通録へようこそ
-<a src="./flag.png">
+<img src="./flag.png">
 ## 概要
 
 東方電通録へようこそ<br>
